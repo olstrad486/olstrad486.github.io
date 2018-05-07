@@ -35,7 +35,7 @@ a {
 }
 
     a:hover {
-        color: black;
+        color: #FF6200;
         text-decoration: none;
         transition: all.3s ease;
         -moz-transition: all.3s ease;
